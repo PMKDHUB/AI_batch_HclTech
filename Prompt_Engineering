@@ -18,3 +18,18 @@ Question Answering Prompt:“What is the difference between AI and Machine Lear
 Email Writing Prompt:“Write a professional email requesting leave for 2 days.” 
 Comparison Prompt:“Compare Python and Java in simple terms.” 
 Step-by-step Prompt:“Explain how to install Python step by step.”
+
+
+
+Advanced Prompting
+
+Chain-of-thought
+Chain-of-thought: Encouraging the AI to reason step-by-step to produce more accurate and logical answers.
+Few-shot learning
+Few-shot learning: Guiding the AI by providing a few examples to demonstrate the desired output format or pattern. 
+Context injection
+Context injection: Supplying relevant background information within the prompt to improve the accuracy and relevance of responses.
+
+
+
+
