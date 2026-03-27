@@ -1,0 +1,20 @@
+Writing effective prompts:
+Writing effective prompts: Crafting clear and specific inputs to guide AI toward accurate and useful outputs. 
+Clear instructions
+Clear instructions: Providing direct and unambiguous guidance so the AI understands exactly what is required. 
+Few-shot examples
+Few-shot examples: Supplying a few sample inputs and outputs to help the AI learn the desired pattern. 
+Role-based prompts
+Role-based prompts: Assigning a specific role to the AI (e.g., teacher, coder) to shape its responses accordingly.
+
+Basic Prompt Examples:
+Explanation Prompt:“Explain Artificial Intelligence in simple terms.” 
+Summarization Prompt:“Summarize the following text in 3 points: [paste text]” 
+Translation Prompt:“Translate this sentence into Hindi: ‘Good morning, how are you?’” 
+List Generation Prompt:“Give me 5 uses of Machine Learning.” 
+Creative Writing Prompt:“Write a short story about a robot learning emotions.” 
+Coding Prompt:“Write a Python program to find the factorial of a number.” 
+Question Answering Prompt:“What is the difference between AI and Machine Learning?” 
+Email Writing Prompt:“Write a professional email requesting leave for 2 days.” 
+Comparison Prompt:“Compare Python and Java in simple terms.” 
+Step-by-step Prompt:“Explain how to install Python step by step.”
