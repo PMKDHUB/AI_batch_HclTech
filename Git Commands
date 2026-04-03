@@ -56,6 +56,13 @@ If fatal SSH (https security) error occurs:
 
 git -c http.sslVerify=false clone https://github.com/monicag-gupta/Proj1.git
 
+cd Proj1
+Edit hello.html
+
+git add .
+git commit -m "Hello.html changed"
+
+
 
 
 
